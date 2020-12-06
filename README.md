@@ -2,7 +2,7 @@
 ![2](https://user-images.githubusercontent.com/63557278/101296302-ed86a580-3822-11eb-9859-64f3ce2ff2ad.png)
 
 
-# ntroduction
+# Introduction
 Movies app built with React
 
 ## Sources
